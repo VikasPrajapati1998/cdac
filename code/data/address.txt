@@ -1,0 +1,40 @@
+Shipping Address : 
+First Name : Arjun
+Last Name : Prajapati
+Address Line 1 : SR PG, 6th Cross Neeladri
+Address Line 2 : Electronic City
+City : Bangalore
+State : Karnatak
+PIN : 500100
+Billing Address : 
+First Name : Vikas
+Last Name : Prajapati
+Address Line 1 : Anupamma PG 4th Cross Neeladri
+Address Line 2 : Electronic City
+City : Bangalore
+State : Karnatak
+PIN : 500100
+Billing Address : 
+First Name : Kumar Sanu
+Last Name : Sanu
+Address Line 1 : 13th Cross Neeladri
+Address Line 2 : Electronic City
+City : Bangalore
+State : Karnatak
+PIN : 500123
+Billing Address : 
+First Name : Kumar
+Last Name : Sanu
+Address Line 1 : SR PG 6th Cross
+Address Line 2 : Neeladri
+City : Bangalore
+State : Karnatak
+PIN : 500123
+Shipping Address : 
+First Name : Rutuja
+Last Name : Dhamdhere
+Address Line 1 : Girls Hostel, CDAC-Bangalore
+Address Line 2 : Electronic City
+City : Bangalore
+State : Karnatak
+PIN : 560100
